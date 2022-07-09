@@ -29,8 +29,8 @@ This program supports two collision modes: 1 Random wallet collision mode. 2. Ta
 1. Register RPC nodes. This software needs to use RPC nodes. The more RPC nodes, the more stable the program can run.
 2. Fill RPC nodes into config.ini file, please pay attention to the format.
 3. Double click start.exe to run
-4. (only for Standard version)if you want use the Target wallet collision mode.Please fill the target wallets into the target_config.ini file.
-5. The results of all successful collisions will be recorded in bingo.txt file
+4. (only for Standard version)if you want use the Target wallet collision mode.Please fill the target wallets into the targets.ini file.
+5. The results of all successful collisions will be recorded in Success.txt file
 
 -----------------------------------------
 
