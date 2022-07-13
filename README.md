@@ -20,8 +20,14 @@ Users can customize RPC nodes to ensure a long-term stable network
 Users can switch between different chains by switching nodes. It supports Ethereum Mainnet, sidechains and layer 2, including ETH Mainnet, Binance smart chain, Polygon, Arbitrum one, etc
 
 
-## Dual mode (Only for Standard version) ##
-This program supports two collision modes: 1 Random wallet collision mode. 2. Target wallet collision mode. Users can switch between the two modes by themselves.
+## Three modes mode (Only for Standard version) ##
+This program supports three collision modes: 
+
+1.Random Private Key collision mode. 
+2.Random mnenonic collision mode. 
+3.Target wallet collision mode. 
+
+Users can switch between the three modes by themselves.
 
 
 # How to Use: #
@@ -39,8 +45,8 @@ This program supports two collision modes: 1 Random wallet collision mode. 2. Ta
 
 | ****                  | **Free** | **Standard**            |
 |-----------------------|----------|-------------------------|
-| **Multi threads**     | 10       | Unlimited customization |
-| **Dual mode**         | No       | Yes                     |
+| **Multi threads**     | 30       | Unlimited customization |
+| **Three mode**        | 2 Mode allowed  | Yes                     |
 | **Continuous update** | No       | Yes                     |
 
 
