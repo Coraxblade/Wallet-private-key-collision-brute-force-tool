@@ -41,6 +41,30 @@ Users can switch between the three modes by themselves.
 -----------------------------------------
 
 
+# About Local Mode: #
+
+1. We built local mode with a huge ETH holder addresses database.
+2. You need download the database before you run local mode.
+3. Please create a folder named database in the root path and put 16 database files into the folder
+4. There are three versions of databases: 89 million addresses, 130 million addresses, and 180 million addresses, corresponding to different memory requirements
+5. 89 million addresses require at least 8G of memory, 130 million addresses require at least 12G of memory, and 180 million addresses require at least 16G of memory. Please test by yourself according to the actual situation of your computer
+
+
+
+Download URL：
+89M address (more than 8G memory,Please test by yourself)
+https://1drv.ms/u/s!At2lFKT52KhHbwToXxYOc6UPw-0?e=pAtuUp
+
+130M address (more than 12G memory,Please test by yourself)
+https://1drv.ms/u/s!At2lFKT52KhHbiy2CUGum6I-VU4?e=JL5TBd
+
+180M address (more than 16G memory,Please test by yourself)
+https://1drv.ms/u/s!At2lFKT52KhHbe6eJgXbar8j6BY?e=RExXgc
+
+-----------------------------------------
+
+
+
 # How to get Standard Version: #
 
 | ****                  | **Free** | **Standard**            |
