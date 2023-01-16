@@ -107,4 +107,9 @@ Send Email to Coraxblade@outlook.com
 - https://bsc-dataseed1.ninicoin.io/
 
 
-Support:Coraxblade@outlook.com
+Support:
+Coraxblade@outlook.com
+Telegram for English: 
+https://t.me/Coraxblade
+華語電報:
+https://t.me/wbrwallets
