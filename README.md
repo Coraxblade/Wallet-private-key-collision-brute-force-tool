@@ -109,11 +109,8 @@ Send Email to Coraxblade@outlook.com
 
 Support:
 Coraxblade@outlook.com
-Telegram for English: 
+Telegram
 https://t.me/Coraxblade
-華語電報:
-https://t.me/wbrwallets
-
 
 This software accepts customized service, please contact by telegram
-本程式接受功能和界面訂製服務，請通過Telegram聯絡
+
